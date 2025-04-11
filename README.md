@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/LakshmananiTech/LeetCode/tree/master/2998-count-symmetric-integers) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/LakshmananiTech/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/LakshmananiTech/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
