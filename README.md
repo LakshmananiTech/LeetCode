@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/LakshmananiTech/LeetCode/tree/master/0066-plus-one) |
 | [2998-count-symmetric-integers](https://github.com/LakshmananiTech/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LakshmananiTech/LeetCode/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/LakshmananiTech/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
