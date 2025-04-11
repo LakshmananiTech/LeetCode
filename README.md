@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/LakshmananiTech/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/LakshmananiTech/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2470-removing-stars-from-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LakshmananiTech/LeetCode/tree/master/0020-valid-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2470-removing-stars-from-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
