@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/LakshmananiTech/LeetCode/tree/master/0066-plus-one) |
+| [2037-count-square-sum-triples](https://github.com/LakshmananiTech/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2998-count-symmetric-integers](https://github.com/LakshmananiTech/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/1656-count-good-triplets) |
+| [2037-count-square-sum-triples](https://github.com/LakshmananiTech/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2122-count-special-quadruplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/LakshmananiTech/LeetCode/tree/master/2998-count-symmetric-integers) |
