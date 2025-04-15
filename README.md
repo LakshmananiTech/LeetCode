@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Counting
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2639-separate-the-digits-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Hash Table
 |  |
