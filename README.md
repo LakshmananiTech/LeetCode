@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LakshmananiTech/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/LakshmananiTech/LeetCode/tree/master/0020-valid-parentheses) |
+| [0749-shortest-completing-word](https://github.com/LakshmananiTech/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/LakshmananiTech/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1797-goal-parser-interpretation](https://github.com/LakshmananiTech/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/LakshmananiTech/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/LakshmananiTech/LeetCode/tree/master/0066-plus-one) |
+| [0749-shortest-completing-word](https://github.com/LakshmananiTech/LeetCode/tree/master/0749-shortest-completing-word) |
 | [1656-count-good-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0749-shortest-completing-word](https://github.com/LakshmananiTech/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/LakshmananiTech/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2122-count-special-quadruplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
