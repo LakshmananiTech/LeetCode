@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/LakshmananiTech/LeetCode/tree/master/0066-plus-one) |
 | [0749-shortest-completing-word](https://github.com/LakshmananiTech/LeetCode/tree/master/0749-shortest-completing-word) |
+| [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1656-count-good-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2442-number-of-arithmetic-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Greedy
 |  |
