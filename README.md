@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/LakshmananiTech/LeetCode/tree/master/0066-plus-one) |
 | [0749-shortest-completing-word](https://github.com/LakshmananiTech/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1580-shuffle-the-array](https://github.com/LakshmananiTech/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/1656-count-good-triplets) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshmananiTech/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2122-count-special-quadruplets) |
