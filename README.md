@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2634-minimum-common-value](https://github.com/LakshmananiTech/LeetCode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2634-minimum-common-value](https://github.com/LakshmananiTech/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -101,8 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2442-number-of-arithmetic-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2634-minimum-common-value](https://github.com/LakshmananiTech/LeetCode/tree/master/2634-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Binary Search
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/LakshmananiTech/LeetCode/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
