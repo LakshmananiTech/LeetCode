@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/LakshmananiTech/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LakshmananiTech/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/LakshmananiTech/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1580-shuffle-the-array](https://github.com/LakshmananiTech/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/1656-count-good-triplets) |
 | [2048-build-array-from-permutation](https://github.com/LakshmananiTech/LeetCode/tree/master/2048-build-array-from-permutation) |
