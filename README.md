@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2998-count-symmetric-integers](https://github.com/LakshmananiTech/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/LakshmananiTech/LeetCode/tree/master/3321-type-of-triangle) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LakshmananiTech/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Enumeration
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3321-type-of-triangle](https://github.com/LakshmananiTech/LeetCode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/LakshmananiTech/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LakshmananiTech/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Counting
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/LakshmananiTech/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3321-type-of-triangle](https://github.com/LakshmananiTech/LeetCode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
