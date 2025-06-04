@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshmananiTech/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LakshmananiTech/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/LakshmananiTech/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2442-number-of-arithmetic-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/LakshmananiTech/LeetCode/tree/master/0075-sort-colors) |
 | [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LakshmananiTech/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/LakshmananiTech/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LakshmananiTech/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Binary Search
 |  |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/LakshmananiTech/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LakshmananiTech/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
