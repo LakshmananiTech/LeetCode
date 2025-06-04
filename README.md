@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/2630-alternating-digit-sum) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/LakshmananiTech/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2998-count-symmetric-integers](https://github.com/LakshmananiTech/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/LakshmananiTech/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/LakshmananiTech/LeetCode/tree/master/3321-type-of-triangle) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/LakshmananiTech/LeetCode/tree/master/2634-minimum-common-value) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/LakshmananiTech/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Sorting
 |  |
 | ------- |
