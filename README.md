@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/LakshmananiTech/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
 | [0749-shortest-completing-word](https://github.com/LakshmananiTech/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LakshmananiTech/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LakshmananiTech/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/LakshmananiTech/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshmananiTech/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/LakshmananiTech/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
 | [0749-shortest-completing-word](https://github.com/LakshmananiTech/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/LakshmananiTech/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LakshmananiTech/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/LakshmananiTech/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
 | [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LakshmananiTech/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
