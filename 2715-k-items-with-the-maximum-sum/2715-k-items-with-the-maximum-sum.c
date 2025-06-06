@@ -1,7 +1,6 @@
 int kItemsWithMaximumSum(int n, int nz, int no, int k) {
-   int i,s,j,c,z;
+   int i,s,j,c,z,a[1000];
    j=0;
-   int *a=(int*)malloc(10000*sizeof(int));
    for(i=1;i<=n;i++)
    {
     a[j]=1;
