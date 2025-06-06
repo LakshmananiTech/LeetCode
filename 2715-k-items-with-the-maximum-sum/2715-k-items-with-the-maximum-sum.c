@@ -1,5 +1,5 @@
 int kItemsWithMaximumSum(int n, int nz, int no, int k) {
-   int i,s,j,c,z,a[1000];
+   int i,s,j,c,z,a[10000];
    j=0;
    for(i=1;i<=n;i++)
    {
