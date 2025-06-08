@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/LakshmananiTech/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1580-shuffle-the-array](https://github.com/LakshmananiTech/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/1656-count-good-triplets) |
+| [1961-maximum-ice-cream-bars](https://github.com/LakshmananiTech/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2048-build-array-from-permutation](https://github.com/LakshmananiTech/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshmananiTech/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
 | [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1961-maximum-ice-cream-bars](https://github.com/LakshmananiTech/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LakshmananiTech/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/LakshmananiTech/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/LakshmananiTech/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LakshmananiTech/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/LakshmananiTech/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LakshmananiTech/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Divide and Conquer
 |  |
