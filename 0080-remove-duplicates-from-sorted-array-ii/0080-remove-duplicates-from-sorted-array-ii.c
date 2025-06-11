@@ -1,5 +1,5 @@
 int removeDuplicates(int* a, int n) {
-    int i,j,f,k,c;
+    int i,j,k,c;
     k=0;
     for(i=0;i<n;i++)
     {
