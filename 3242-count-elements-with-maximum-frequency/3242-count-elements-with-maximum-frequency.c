@@ -1,0 +1,40 @@
+int maxFrequencyElements(int* a, int n)
+ {
+ int i,j,c,f,b[100],k,m,s;
+ k=0;
+for(i=0;i<n;i++)
+{
+    f=1;
+    for(j=0;j<i;j++)
+    {
+        if(a[i]==a[j])
+        {
+            f=0;
+            break;
+        }
+    }
+        if(f==1)
+        {
+            c=0;
+            for(j=i;j<n;j++)
+            {
+                if(a[i]==a[j])  
+                    c++;
+                }
+        b[k++]=c;
+        }
+}
+m=b[0];
+for(i=0;i<k;i++)
+if(b[i]>m)
+{
+    m=b[i];
+}
+s=0;
+for(i=0;i<k;i++)
+{
+    if(m==b[i])
+    s=s+b[i];
+}
+return s;
+ }
