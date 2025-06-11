@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/LakshmananiTech/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/LakshmananiTech/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LakshmananiTech/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/LakshmananiTech/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/LakshmananiTech/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LakshmananiTech/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/LakshmananiTech/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
