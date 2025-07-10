@@ -1,22 +1,20 @@
 bool isPalindrome(int x) {
-    long long int n,s,r;
-
+    long s,r,m;
+    s=0;
+    m=x;
     if(x<0)
     return 0;
 
-    n = x;
-    s = 0;
-    while(n!=0)
+    while(m!=0)
     {
-        r = n%10;
-        s = s*10 + r;
-        n = n/10;
+        r=m%10;
+        s=s*10+r;
+        m=m/10;
     }
+    if(s==x)
+        return true;
 
-    if(x==s)
-    return 1;
-
-    else
-    return 0;
+    return false;;
+    
     
 }
