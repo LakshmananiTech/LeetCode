@@ -1,5 +1,6 @@
 int mySqrt(int x) {
-
-    return sqrt(x);
+    int n;
+    n=sqrt(x);
+    return n;
     
 }
