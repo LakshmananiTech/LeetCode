@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/LakshmananiTech/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/LakshmananiTech/LeetCode/tree/master/0749-shortest-completing-word) |
+| [0792-binary-search](https://github.com/LakshmananiTech/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/LakshmananiTech/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LakshmananiTech/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/LakshmananiTech/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/LakshmananiTech/LeetCode/tree/master/0441-arranging-coins) |
+| [0792-binary-search](https://github.com/LakshmananiTech/LeetCode/tree/master/0792-binary-search) |
 | [2634-minimum-common-value](https://github.com/LakshmananiTech/LeetCode/tree/master/2634-minimum-common-value) |
 ## Matrix
 |  |
