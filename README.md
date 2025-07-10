@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/LakshmananiTech/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/LakshmananiTech/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/LakshmananiTech/LeetCode/tree/master/3321-type-of-triangle) |
+| [3371-harshad-number](https://github.com/LakshmananiTech/LeetCode/tree/master/3371-harshad-number) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LakshmananiTech/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Enumeration
 |  |
