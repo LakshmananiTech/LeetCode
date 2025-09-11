@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/LakshmananiTech/LeetCode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LakshmananiTech/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshmananiTech/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/LakshmananiTech/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2037-count-square-sum-triples](https://github.com/LakshmananiTech/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2238-a-number-after-a-double-reversal](https://github.com/LakshmananiTech/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LakshmananiTech/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/LakshmananiTech/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshmananiTech/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1580-shuffle-the-array](https://github.com/LakshmananiTech/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/1677-matrix-diagonal-sum) |
