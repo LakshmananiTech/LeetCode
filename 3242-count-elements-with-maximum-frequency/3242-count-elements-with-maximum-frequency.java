@@ -16,9 +16,9 @@ class Solution {
             int k = e.getKey();
             int v = e.getValue();
             if(v == big)
-            s++;
+            s+=v;
         
         }
-        return s*big;
+        return s;
     }
 }
