@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/LakshmananiTech/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2788-split-strings-by-separator](https://github.com/LakshmananiTech/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/LakshmananiTech/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/LakshmananiTech/LeetCode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/LakshmananiTech/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2788-split-strings-by-separator](https://github.com/LakshmananiTech/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
