@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/LakshmananiTech/LeetCode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3429-special-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/LakshmananiTech/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3701-compute-alternating-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/LakshmananiTech/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LakshmananiTech/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshmananiTech/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3701-compute-alternating-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
