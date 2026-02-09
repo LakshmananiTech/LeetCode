@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2752-sum-multiples](https://github.com/LakshmananiTech/LeetCode/tree/master/2752-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/LakshmananiTech/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/LakshmananiTech/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2998-count-symmetric-integers](https://github.com/LakshmananiTech/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/LakshmananiTech/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
