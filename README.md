@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LakshmananiTech/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/LakshmananiTech/LeetCode/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/LakshmananiTech/LeetCode/tree/master/0383-ransom-note) |
 | [0657-robot-return-to-origin](https://github.com/LakshmananiTech/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0749-shortest-completing-word](https://github.com/LakshmananiTech/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/LakshmananiTech/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/LakshmananiTech/LeetCode/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LakshmananiTech/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/LakshmananiTech/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/LakshmananiTech/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/LakshmananiTech/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/LakshmananiTech/LeetCode/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/LakshmananiTech/LeetCode/tree/master/0749-shortest-completing-word) |
