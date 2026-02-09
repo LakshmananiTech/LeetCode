@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/LakshmananiTech/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3110-score-of-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/3110-score-of-a-string) |
 | [3194-find-words-containing-character](https://github.com/LakshmananiTech/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/LakshmananiTech/LeetCode/tree/master/3340-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
