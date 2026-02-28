@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/LakshmananiTech/LeetCode/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/LakshmananiTech/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/LakshmananiTech/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/LakshmananiTech/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/LakshmananiTech/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/LakshmananiTech/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/LakshmananiTech/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/LakshmananiTech/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/LakshmananiTech/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
