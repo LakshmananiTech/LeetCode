@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/LakshmananiTech/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/LakshmananiTech/LeetCode/tree/master/3371-harshad-number) |
 | [3516-find-closest-person](https://github.com/LakshmananiTech/LeetCode/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/LakshmananiTech/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/LakshmananiTech/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LakshmananiTech/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshmananiTech/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/LakshmananiTech/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
