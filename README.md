@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/LakshmananiTech/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/LakshmananiTech/LeetCode/tree/master/3371-harshad-number) |
 | [3516-find-closest-person](https://github.com/LakshmananiTech/LeetCode/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshmananiTech/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LakshmananiTech/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/LakshmananiTech/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/LakshmananiTech/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/LakshmananiTech/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3321-type-of-triangle](https://github.com/LakshmananiTech/LeetCode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3429-special-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshmananiTech/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/LakshmananiTech/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3701-compute-alternating-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/3731-find-missing-elements) |
