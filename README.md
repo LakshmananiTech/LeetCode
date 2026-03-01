@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3194-find-words-containing-character](https://github.com/LakshmananiTech/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LakshmananiTech/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/LakshmananiTech/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/LakshmananiTech/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2887-sort-vowels-in-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3321-type-of-triangle](https://github.com/LakshmananiTech/LeetCode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2634-minimum-common-value](https://github.com/LakshmananiTech/LeetCode/tree/master/2634-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/LakshmananiTech/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/LakshmananiTech/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
