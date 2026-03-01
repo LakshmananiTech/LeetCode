@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/LakshmananiTech/LeetCode/tree/master/2315-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/LakshmananiTech/LeetCode/tree/master/2788-split-strings-by-separator) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/LakshmananiTech/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2887-sort-vowels-in-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3110-score-of-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/LakshmananiTech/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/LakshmananiTech/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2788-split-strings-by-separator](https://github.com/LakshmananiTech/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/LakshmananiTech/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/LakshmananiTech/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/LakshmananiTech/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
