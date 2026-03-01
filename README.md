@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/LakshmananiTech/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/LakshmananiTech/LeetCode/tree/master/1816-truncate-sentence) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/LakshmananiTech/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/LakshmananiTech/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/LakshmananiTech/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/LakshmananiTech/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/LakshmananiTech/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LakshmananiTech/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/LakshmananiTech/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LakshmananiTech/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/LakshmananiTech/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1848-sum-of-unique-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/LakshmananiTech/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/LakshmananiTech/LeetCode/tree/master/2122-count-special-quadruplets) |
