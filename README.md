@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/LakshmananiTech/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0749-shortest-completing-word](https://github.com/LakshmananiTech/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/LakshmananiTech/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/LakshmananiTech/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LakshmananiTech/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/LakshmananiTech/LeetCode/tree/master/1797-goal-parser-interpretation) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LakshmananiTech/LeetCode/tree/master/0020-valid-parentheses) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
