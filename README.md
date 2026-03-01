@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshmananiTech/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/LakshmananiTech/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2315-count-asterisks](https://github.com/LakshmananiTech/LeetCode/tree/master/2315-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/LakshmananiTech/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
