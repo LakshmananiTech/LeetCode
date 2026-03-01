@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/LakshmananiTech/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/LakshmananiTech/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/LakshmananiTech/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3194-find-words-containing-character](https://github.com/LakshmananiTech/LeetCode/tree/master/3194-find-words-containing-character) |
