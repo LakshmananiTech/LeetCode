@@ -12,7 +12,7 @@ class Solution {
         for(int i=1;i<=q;i++)
         s = s + a + (7 * (i-1));
         for(int i=1;i<=r;i++)
-        s = s + (i +(q));
+        s = s + i +q;
         return s;
 
         
