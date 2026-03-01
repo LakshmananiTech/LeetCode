@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshmananiTech/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/LakshmananiTech/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/LakshmananiTech/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2037-count-square-sum-triples](https://github.com/LakshmananiTech/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2119-a-number-after-a-double-reversal](https://github.com/LakshmananiTech/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2238-a-number-after-a-double-reversal](https://github.com/LakshmananiTech/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
