@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/LakshmananiTech/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/LakshmananiTech/LeetCode/tree/master/1816-truncate-sentence) |
 | [1848-sum-of-unique-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/LakshmananiTech/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/LakshmananiTech/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/LakshmananiTech/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LakshmananiTech/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/LakshmananiTech/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/LakshmananiTech/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/LakshmananiTech/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/LakshmananiTech/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/LakshmananiTech/LeetCode/tree/master/0792-binary-search) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/LakshmananiTech/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2634-minimum-common-value](https://github.com/LakshmananiTech/LeetCode/tree/master/2634-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/LakshmananiTech/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
