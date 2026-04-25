@@ -9,7 +9,6 @@ class Solution {
         return "Red";
         else
         return "Invalid";
-  //      return " ";
         
     }
 }
