@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/LakshmananiTech/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/LakshmananiTech/LeetCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/LakshmananiTech/LeetCode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/LakshmananiTech/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/LakshmananiTech/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/LakshmananiTech/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/LakshmananiTech/LeetCode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/LakshmananiTech/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/LakshmananiTech/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/LakshmananiTech/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/LakshmananiTech/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/LakshmananiTech/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/LakshmananiTech/LeetCode/tree/master/0500-keyboard-row) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/LakshmananiTech/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/LakshmananiTech/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/LakshmananiTech/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/LakshmananiTech/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshmananiTech/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/LakshmananiTech/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/LakshmananiTech/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/LakshmananiTech/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/LakshmananiTech/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/LakshmananiTech/LeetCode/tree/master/0792-binary-search) |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/LakshmananiTech/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/LakshmananiTech/LeetCode/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LakshmananiTech/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sliding Window
