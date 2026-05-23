@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LakshmananiTech/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/LakshmananiTech/LeetCode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/LakshmananiTech/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LakshmananiTech/LeetCode/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/LakshmananiTech/LeetCode/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/LakshmananiTech/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/LakshmananiTech/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/LakshmananiTech/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LakshmananiTech/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/LakshmananiTech/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/LakshmananiTech/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/LakshmananiTech/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LakshmananiTech/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/LakshmananiTech/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/LakshmananiTech/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
