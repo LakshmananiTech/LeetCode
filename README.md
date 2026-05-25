@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/LakshmananiTech/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/LakshmananiTech/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LakshmananiTech/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/LakshmananiTech/LeetCode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/LakshmananiTech/LeetCode/tree/master/0500-keyboard-row) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/LakshmananiTech/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/LakshmananiTech/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/LakshmananiTech/LeetCode/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/LakshmananiTech/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/LakshmananiTech/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/LakshmananiTech/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/LakshmananiTech/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
