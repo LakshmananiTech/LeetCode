@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/LakshmananiTech/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/LakshmananiTech/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/LakshmananiTech/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/LakshmananiTech/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/LakshmananiTech/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LakshmananiTech/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/LakshmananiTech/LeetCode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/LakshmananiTech/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/LakshmananiTech/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/LakshmananiTech/LeetCode/tree/master/2000-reverse-prefix-of-word) |
