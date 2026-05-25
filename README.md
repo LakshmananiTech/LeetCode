@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/LakshmananiTech/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/LakshmananiTech/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/LakshmananiTech/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1528-shuffle-string](https://github.com/LakshmananiTech/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LakshmananiTech/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LakshmananiTech/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/LakshmananiTech/LeetCode/tree/master/1797-goal-parser-interpretation) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshmananiTech/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/LakshmananiTech/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LakshmananiTech/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1528-shuffle-string](https://github.com/LakshmananiTech/LeetCode/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/LakshmananiTech/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/LakshmananiTech/LeetCode/tree/master/1656-count-good-triplets) |
