@@ -1,11 +1,13 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> list = new ArrayList<>();
-        Arrays.sort(nums);
         for(int i=0;i<nums.length;i++)
-        { int k = Arrays.binarySearch(nums,nums[i]);
-        if( k != i && k >= 0)
-        list.add(nums[i]);
+        {
+            int index = Math.abs(nums[i]) - 1;
+            if(nums[index] > 0)
+                nums[index] = - nums[index];
+            else
+                list.add(index + 1);
         }
         return list;
     }
