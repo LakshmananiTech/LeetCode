@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/LakshmananiTech/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LakshmananiTech/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshmananiTech/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3945-digit-frequency-score](https://github.com/LakshmananiTech/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/LakshmananiTech/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/LakshmananiTech/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/LakshmananiTech/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/LakshmananiTech/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
