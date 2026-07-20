@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/LakshmananiTech/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/LakshmananiTech/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/LakshmananiTech/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LakshmananiTech/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-count-square-sum-triples](https://github.com/LakshmananiTech/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2119-a-number-after-a-double-reversal](https://github.com/LakshmananiTech/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/LakshmananiTech/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/LakshmananiTech/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/LakshmananiTech/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LakshmananiTech/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LakshmananiTech/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-build-array-from-permutation](https://github.com/LakshmananiTech/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/LakshmananiTech/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/LakshmananiTech/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LakshmananiTech/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/LakshmananiTech/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/LakshmananiTech/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LakshmananiTech/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
