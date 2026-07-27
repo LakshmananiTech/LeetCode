@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/LakshmananiTech/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/LakshmananiTech/LeetCode/tree/master/3371-harshad-number) |
 | [3516-find-closest-person](https://github.com/LakshmananiTech/LeetCode/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshmananiTech/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/LakshmananiTech/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LakshmananiTech/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3321-type-of-triangle](https://github.com/LakshmananiTech/LeetCode/tree/master/3321-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/LakshmananiTech/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Two Pointers
