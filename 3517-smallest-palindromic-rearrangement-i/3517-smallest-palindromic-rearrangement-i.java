@@ -14,7 +14,7 @@ class Solution {
         b[i++] = s.charAt(n/2);
         for(int j=a.length-1;j>=0;j--)
         b[i++] = a[j];
-        return new String(b).trim();
+        return new String(b);
    
    }
 }
