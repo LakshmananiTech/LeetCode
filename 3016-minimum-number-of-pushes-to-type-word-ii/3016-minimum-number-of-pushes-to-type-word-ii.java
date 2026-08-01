@@ -4,7 +4,15 @@ class Solution {
         
         for(char k : word.toCharArray())
         a[k-97]++;
-        Object b[] = Arrays.stream(a).boxed().sorted(Comparator.reverseOrder()).toArray();
+
+        for(int i=0;i<26-1;i++)
+        for(int j=i+1;j<26;j++)
+        if(a[i] < a[j])
+        {
+            int c = a[i];
+            a[i] = a[j];
+            a[j] = c;
+        }
         
         int p = 1;
         int s = 0;
@@ -19,7 +27,7 @@ class Solution {
         else
         p = 4;
     
-        s = s + p * (Integer)b[i];
+        s = s + p * a[i];
         }
 
         return s;
