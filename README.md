@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/LakshmananiTech/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/LakshmananiTech/LeetCode/tree/master/1816-truncate-sentence) |
 | [1848-sum-of-unique-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/LakshmananiTech/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/LakshmananiTech/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/LakshmananiTech/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/LakshmananiTech/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
