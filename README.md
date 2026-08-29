@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/LakshmananiTech/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LakshmananiTech/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshmananiTech/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4020-elevator-requests-i](https://github.com/LakshmananiTech/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Counting
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/LakshmananiTech/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/LakshmananiTech/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/LakshmananiTech/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [4020-elevator-requests-i](https://github.com/LakshmananiTech/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
