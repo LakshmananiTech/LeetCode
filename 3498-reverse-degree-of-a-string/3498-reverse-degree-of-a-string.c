@@ -1,13 +1,10 @@
 int reverseDegree(char* s) {
-    int k = 123;
-    int i = 1;
-    int sum = 0;
-    int j = 0;
-    while(*(s+j) != '\0')
+    int i=0;
+    double f;
+    while(s[i]!='\0')
     {
-        sum = sum + (k - *(s+j)) * i;
-        j++;
+        f=f+((i+1)*('z'-s[i]+1));
         i++;
     }
-    return sum;
+    return f;
 }
